@@ -1,0 +1,30 @@
+_repo: The-Travels-of-Sir-John-Mandeville_782
+alternative_title: Itinerarium. English
+creator:
+  author:
+    agent_name: Mandeville, John, Sir
+    gutenberg_agent_id: '412'
+    url: http://www.gutenberg.org/2009/agents/412
+    wikipedia: http://en.wikipedia.org/wiki/John_Mandeville
+description: Inspiring writers as diverse as Swift, Defoe and Coleridge, 'The Travels
+  of Sir John Mandeville' is a rich and often fantastical travel narrative from the
+  14th century, combining geography and natural history with romance and marvels.
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '782'
+language: en
+language_note: Translated from Anglo-Norman
+publication_note: Macmillan and Co., 1900
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mandeville, John, Sir -- Travel'
+- !lcsh 'Voyages and travels -- Early works to 1800'
+- !lcc 'G'
+- !lcsh 'Palestine -- Description and travel -- Early works to 1800'
+- !lcsh 'Geography, Medieval'
+- !lcsh 'Orient -- Description and travel -- Early works to 1800'
+title: The Travels of Sir John Mandeville
+url: http://www.gutenberg.org/ebooks/782
