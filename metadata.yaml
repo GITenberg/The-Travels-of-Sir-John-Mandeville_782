@@ -1,5 +1,5 @@
 _repo: The-Travels-of-Sir-John-Mandeville_782
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Itinerarium. English
 covers:
 - cover_type: generated
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Palestine -- Description and travel -- Early works to 1800'
 - !lcsh 'Geography, Medieval'
 - !lcsh 'Orient -- Description and travel -- Early works to 1800'
+- GITenberg
 title: The Travels of Sir John Mandeville
 url: http://www.gutenberg.org/ebooks/782
